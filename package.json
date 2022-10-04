@@ -12,6 +12,8 @@
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^3.0.3",
-    "vite": "^3.0.9"
+    "@rollup/plugin-inject": "^4.0.4",
+    "vite": "^3.0.9",
+    "@esbuild-plugins/node-modules-polyfill": "0.1.4"
   }
 }
